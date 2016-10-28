@@ -6,7 +6,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("toto");
+		System.out.println("totu");
 		MongoDatabase mongoDatabase;
 		int nb = 7;
 	}
