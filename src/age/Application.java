@@ -8,7 +8,7 @@ public class Application {
 		// TODO Auto-generated method stub
 		System.out.println("toto");
 		MongoDatabase mongoDatabase;
-		int nb = 5;
+		int nb = 7;
 	}
 
 }
